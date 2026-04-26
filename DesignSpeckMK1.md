@@ -18,3 +18,11 @@ go into my space, be able to be notified about it.
 - people looking to set up a security system without haveing to pay through the nose for it
 - people who want control over their own data
 
+### _what makes this project valueble:_
+-  simple configuration and manegment of sources
+-  remotely accesible web dashboard with customisable css
+-  eventual wide accsesibillity for a range of products
+-  me
+-  opensource, you controll your own data and not the bezos
+
+
