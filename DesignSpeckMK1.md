@@ -11,3 +11,10 @@ i initially was inspired to make this after my friend said that he wanted a way 
 through his window for what seems like no reason. After that i wanted a way to keep people out of my workspace or to atleast be able to detect when they do
 go into my space, be able to be notified about it.
 
+
+### _who will use this:_ 
+- homelab enthusiests who want a simple way to manage configure and setup a security system at home
+- those wanting a smaller security setup with usb/ip cameras to keep sensitive areas secure
+- people looking to set up a security system without haveing to pay through the nose for it
+- people who want control over their own data
+
